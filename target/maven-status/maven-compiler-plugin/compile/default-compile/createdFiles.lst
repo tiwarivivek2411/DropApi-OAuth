@@ -1,0 +1,13 @@
+couture/AccessToken.class
+couture/OAuthAuthenticator.class
+couture/OAuth2Resource.class
+couture/AppAuthorizer.class
+couture/User.class
+couture/DropApiConfiguration.class
+couture/AccessTokenDao.class
+couture/Brand.class
+couture/DropApiApplication.class
+couture/BrandRepository.class
+couture/BrandResource.class
+couture/UserDao.class
+couture/ApplicationHealthCheck.class

@@ -1,0 +1,13 @@
+defaultSize: 5
+
+apiUsername : login
+server: 
+    type: simple
+    applicationContextPath: /
+    adminContextPath: /admin
+    connector:
+        port: 4000
+        type: http
+apiPassword : logic
+
+
